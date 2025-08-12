@@ -38,6 +38,7 @@ img{
     padding: 10% 2%;
     font-size: larger;
     font-style: bold;
+    overflow: scroll;
 }
 
 
@@ -77,3 +78,4 @@ button{
    margin-top: 20%;
   }
 }
+
